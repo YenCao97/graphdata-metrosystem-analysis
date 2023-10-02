@@ -11,6 +11,7 @@ To understand and work with Neo4j effectively, you can refer to the following re
 * [Neo4j Graph Data Science](https://neo4j.com/docs/graph-data-science/current/)
 ## Prerequisites
 * Neo4j package: You can install it using pip (pip install neo4j).
+* Sqlalchemy toolkit: You can install it using pip (pip install sqlalchemy).
 * Neo4j database: Import firstly the relevant data from Postgres to Neo4j.
 ## License
 This project is licensed under the [GNU General Public License 3](https://www.gnu.org/licenses/gpl-3.0).
